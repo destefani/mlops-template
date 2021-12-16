@@ -6,4 +6,5 @@ Files:
 - Makefile
 - requirements.txt
 - hello.py
+- test_hello.py
 - Virtualenv
