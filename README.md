@@ -18,3 +18,17 @@ Activate the virtual environment:
 
 `source ~/.your-repo-name/bin/activate`
 
+## Makefile
+
+Install dependencies:
+
+`make install`
+
+Lint code:
+
+`make lint`
+
+Test code:
+
+`make test`
+
