@@ -9,10 +9,12 @@ Files:
 - test_hello.py
 - Virtualenv
 
-## 1. Create a virtual environment
-Create a virtual environment using pythons `venv`:\
+## Create a virtual environment
+Create a virtual environment using python's `venv`:
+
 `python3 -m venv ~/.your-repo-name`
 
 Activate the virtual environment:
+
 `source ~/.your-repo-name/bin/activate`
 
