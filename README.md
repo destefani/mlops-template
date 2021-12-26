@@ -28,7 +28,18 @@ Lint code:
 
 `make lint`
 
+Format code:
+`make format`
+
 Test code:
 
 `make test`
+
+# Continuous Integration
+Automatically build and test code when merged.
+
+# Continuous Delivery
+Automatically deploy code.
+
+
 
