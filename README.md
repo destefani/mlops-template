@@ -12,28 +12,41 @@ Files:
 ## Create a virtual environment
 Create a virtual environment using python's `venv`:
 
-`python3 -m venv ~/.your-repo-name`
+```
+python3 -m venv ~/.your-repo-name
+```
 
 Activate the virtual environment:
 
-`source ~/.your-repo-name/bin/activate`
+```
+source ~/.your-repo-name/bin/activate
+```
 
 ## Makefile
 
 Install dependencies:
 
-`make install`
+```
+make install
+```
 
 Lint code:
 
-`make lint`
+```
+make lint
+```
 
 Format code:
-`make format`
+
+```
+make format
+```
 
 Test code:
 
-`make test`
+```
+make test
+```
 
 # Continuous Integration
 Automatically build and test code when merged.
